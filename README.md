@@ -5,5 +5,6 @@
 
 - :man_technologist: Currently working with Laravel and Xamarin Forms.
 - 🎈 I love React, Angular and anything that uses JavaScript and TypeScript.
-- 📫 How to reach me : [Outlook](mailto:jvitor_2003@hotmail.com)
-- ⚡ Passionate about mobile technologies.
+- 📫 Contact me: [Outlook](mailto:jvitor_2003@hotmail.com).
+- 🕘 Passionate about new web and mobile technologies.
+- 🎸 Bass player.
