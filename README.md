@@ -1,4 +1,4 @@
-# José Vitor Almeida
+# José Vitor Almeida 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/vonSchweeee)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-vitor-almeida-0588b61a9/)](https://www.linkedin.com/in/jos%C3%A9-vitor-almeida-0588b61a9/)
@@ -7,4 +7,5 @@
 - 🎈 I love React, Angular and anything that uses JavaScript and TypeScript.
 - 📫 Contact me: [Outlook](mailto:jvitor_2003@hotmail.com).
 - 🕘 Passionate about new web and mobile technologies.
+- :mortar_board: Sadly, a student.
 - 🎸 Bass player.
