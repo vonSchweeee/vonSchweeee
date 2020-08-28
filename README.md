@@ -9,3 +9,8 @@
 - 🕘 Passionate about new web and mobile technologies.
 - :mortar_board: Sadly, a student.
 - 🎸 Bass player.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonSchweeee&layout=compact&theme=dracula)](https://github.com/vonSchweeee)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vonSchweeee&count_private=true&theme=dracula&show_icons=true)](https://github.com/vonSchweeee)
