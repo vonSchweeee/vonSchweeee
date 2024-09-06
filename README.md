@@ -3,12 +3,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vonSchweeee)](https://github.com/vonSchweeee)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-vitor-almeida-0588b61a9/)](https://www.linkedin.com/in/jos%C3%A9-vitor-almeida-0588b61a9/)
 
-- :man_technologist: Currently working mainly with React Native and Angular.
-- 🎈 I love React, Angular and anything that uses JavaScript and TypeScript.
+- :man_technologist: Fullstack developer. Currently working mainly with React Native and .NET.
+- 🎈 I like to work with anything that uses JavaScript and TypeScript.
 - 📫 Contact me: [Outlook](mailto:jvitor_2003@hotmail.com).
 - 🕘 Passionate about new web and mobile technologies.
-- 🎸 Bass, guitar and keyboard player.
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonSchweeee&layout=compact&theme=dracula)](https://github.com/vonSchweeee)
 
